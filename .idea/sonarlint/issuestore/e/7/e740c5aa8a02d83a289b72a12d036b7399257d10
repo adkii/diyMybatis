@@ -1,0 +1,15 @@
+
+Fsquid:S1148d"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8å´Ò¼”-
+Fsquid:S1148o"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8å´Ò¼”-
+esquid:S00112%"FDefine and throw a dedicated exception instead of using a generic one.(œÛú›8å´Ò¼”-
+Fsquid:S1148f"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8å´Ò¼”-
+gsquid:S2147c"DCombine this catch with the one at line 97, which has the same body.(ğ³Ëûÿÿÿÿ8å´Ò¼”-
+|squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶‡¨šşÿÿÿÿ8å´Ò¼”-
+dsquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(ü àR8å´Ò¼”-
+Fsquid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8å´Ò¼”-
+bsquid:S2147e"DCombine this catch with the one at line 97, which has the same body.(†ğË¹8å´Ò¼”-
+Xsquid:S1141_"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8å´Ò¼”-
+Fsquid:S1148b"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8å´Ò¼”-
+jsquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(á¨’Ïşÿÿÿÿ8å´Ò¼”-
+Usquid:S1135C"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8å´Ò¼”-
+jsquid:S001129"FDefine and throw a dedicated exception instead of using a generic one.(ËµÇÑşÿÿÿÿ8å´Ò¼”-
